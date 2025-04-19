@@ -1,0 +1,36 @@
+[
+    {
+        "unionId": "building_E121_652136_N31_270205",
+        "dataTime": "2025-03-22T14:00:00",
+        "buildingName": "上海杉达学院金海校区教学5号B楼",
+        "buildingAddress": "上海市浦东新区金海路2727号",
+        "structuralForm": "frame",
+        "constructionMaterial": "ferroconcrete",
+        "buildingHeight": 19.4,
+        "numOfFloor": 5,
+        "planeLength": 31.9,
+        "planeWidth": 3,
+        "buildingFunction": "work",
+        "constructionYear": null,
+        "oscillationFrequency": [
+            2.78,
+            8.13,
+            14.87
+        ],
+        "dampingRatio": [
+            0.065,
+            0.043,
+            0.054
+        ],
+        "modalMass": [
+            384000,
+            281000,
+            2023000.0
+        ],
+        "originalExcitation": null,
+        "responseRecord": null,
+        "massMatrix": null,
+        "stiffnessMatrix": null,
+        "skeleton": {}
+    }
+]
